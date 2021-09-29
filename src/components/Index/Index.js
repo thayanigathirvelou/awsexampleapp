@@ -15,7 +15,13 @@ const Index = () => {
 
       <div className="box three">
           <div className="text">
-              <h1>Patient</h1>
+              <h1>Lecturer</h1>
+              </div>
+      </div>
+
+      <div className="box three">
+          <div className="text">
+              <h1>Student</h1>
               </div>
       </div>
     </div>
